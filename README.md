@@ -45,7 +45,7 @@ HOW TO USE GIT THROUGH VS CODE
 --- PUSHING CHANGES TO GITHUB ---
 1) Select Source Control in VS Code.
 2) Select the ✔ to commit any changes to your files. Remember to add a descriptive message.
-3) Select '...' and choose to push. 
+3) Select '...' and choose to push. <br />
 3.1) If it asks to add Remote, then copy the repository URL on GitHub and paste it. 
 <br />
 
