@@ -4,6 +4,8 @@ A test repository for my first even github usage
 --- TO BEGIN WITH ---
 Go to github.com and create a new repository. Then copy the URL to the repository before proceeding with 'git clone ...'
 
+If you get stuck in a commit (happens if you forgot -m), then do this: press ESC, then type in ':wq'
+
 --- GO TO THE FOLDER YOU WANT THE REPOSITORY TO BE IN ---
 In my case, it would be under Documents\Git.
 Using git bash, navigate to folder using $ cd Documents/Git
