@@ -36,10 +36,10 @@ $ git pull
 HOW TO USE GIT THROUGH VS CODE
 
 --- STARTING NEW PROJECTS ---
-1) Create a repository on GitHub.
+1) Create a repository on GitHub.<br />
 1.1) Alternatively, create a new repository locally on the computer at your location.
 2) Select Source Control on VS Code.
-3) Select Clone repository.
+3) Select Clone repository. <br />
 3.1) To upload repository to GitHub, select Publish to GitHub.
 
 --- PUSHING CHANGES TO GITHUB ---
@@ -47,7 +47,7 @@ HOW TO USE GIT THROUGH VS CODE
 2) Select the ✔ to commit any changes to your files. Remember to add a descriptive message.
 3) Select '...' and choose to push. 
 3.1) If it asks to add Remote, then copy the repository URL on GitHub and paste it. 
-
+<br / >
 
 --- REMOVE FROM GIT THROUGH VS CODE ---
 1) Close folder on VS Code.
