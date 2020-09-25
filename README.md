@@ -40,7 +40,8 @@ HOW TO USE GIT THROUGH VS CODE
 1.1) Alternatively, create a new repository locally on the computer at your location.
 2) Select Source Control on VS Code.
 3) Select Clone Repository. <br />
-3.1) To upload repository to GitHub, select Publish to GitHub.
+3.1) To upload repository to GitHub, select Publish to GitHub. <br />
+4) Select where to save the repository locally. 
 
 --- PUSHING CHANGES TO GITHUB ---
 1) Select Source Control in VS Code.
