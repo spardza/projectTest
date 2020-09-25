@@ -63,3 +63,8 @@ HOW TO USE GIT THROUGH VS CODE
 1) Open desired folder on PC with VS Code.
 2) Select Source Control.
 3) Publish to GitHub. (Alternatively CTRL+SHIFT+P and search for Publish to GitHub)
+
+--- DISCARDING NON-COMMITTED CHANGES ---
+1) Select Source Control.
+2) Select '...'
+3) Choose Changes - Discard All Changes.
