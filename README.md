@@ -31,3 +31,10 @@ $ git push
 Receive updated files from github cloud: (might need to do this first if git push gives error)
 $ git pull
 
+
+--- ON VISUAL STUDIO CODE ---
+1) Go to source control.
+2) Press checkmark to commit.
+3) Press '...' to push.
+
+3.1) Might need to '...' to add Remote and then paste repository link. 
