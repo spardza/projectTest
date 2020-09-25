@@ -5,5 +5,6 @@ class Test{
 
         System.out.println("Making some changes, and adding it to github repository");
 
+        System.out.println("hi");
     }
 }
