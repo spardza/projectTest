@@ -47,7 +47,7 @@ HOW TO USE GIT THROUGH VS CODE
 2) Select the ✔ to commit any changes to your files. Remember to add a descriptive message.
 3) Select '...' and choose to push. 
 3.1) If it asks to add Remote, then copy the repository URL on GitHub and paste it. 
-<br / >
+<br />
 
 --- REMOVE FROM GIT THROUGH VS CODE ---
 1) Close folder on VS Code.
