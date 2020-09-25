@@ -31,33 +31,34 @@ $ git push
 Receive updated files from github cloud: (might need to do this first if git push gives error)<br />
 $ git pull
 
+--------------------------------------------------------------------
 
---- ON VISUAL STUDIO CODE ---
-1) Go to source control.
-2) Press checkmark to commit.
-3) Press '...' to push.
+HOW TO USE GIT THROUGH VS CODE
 
-3.1) Might need to '...' to add Remote and then paste repository link. 
+--- STARTING NEW PROJECTS ---
+1) Create a repository on GitHub.
+1.1) Alternatively, create a new repository locally on the computer at your location.
+2) Select Source Control on VS Code.
+3) Select Clone repository.
+3.1) To upload repository to GitHub, select Publish to GitHub.
 
---- CLONE REPOSITORY FROM GITHUB ---
-1) With a fresh VS Code, select Source Control.
-2) Select Clone Repository and add URL. 
+--- PUSHING CHANGES TO GITHUB ---
+1) Select Source Control in VS Code.
+2) Select the ✔ to commit any changes to your files. Remember to add a descriptive message.
+3) Select '...' and choose to push. 
+3.1) If it asks to add Remote, then copy the repository URL on GitHub and paste it. 
 
---- UPLOAD LOCAL FOLDER TO GITHUB ---
-1) Open desired folder on PC with VS Code.
-2) Select Source Control.
-3) Publish to GitHub. (ALternatively CTRL+SHIFT+P and search for Publish to GitHub)
 
 --- REMOVE FROM GIT THROUGH VS CODE ---
 1) Close folder on VS Code.
 2) Open folder location through Explorer on PC.
 3) View hidden items, and delete .git folder.
 
---- SUMMARIZED, REALLY ---
-1) Create repository on GitHub, and copy the repository URL.
-2) Open Git Bash, and enter $ git clone [URL].
-3) Open folder on VS Code.
-4) Do something like create a file or work on project.
-5) Check Source Control (Alt+9).
-6) Commit and add a message.
-7) Press '...' and Push. 
+--- CLONE REPOSITORY FROM GITHUB ---
+1) With a fresh VS Code, select Source Control.
+2) Select Clone Repository and add URL. 
+
+--- UPLOAD LOCAL REPOSITORY TO GITHUB ---
+1) Open desired folder on PC with VS Code.
+2) Select Source Control.
+3) Publish to GitHub. (Alternatively CTRL+SHIFT+P and search for Publish to GitHub)
