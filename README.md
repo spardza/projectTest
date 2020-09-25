@@ -38,3 +38,13 @@ $ git pull
 3) Press '...' to push.
 
 3.1) Might need to '...' to add Remote and then paste repository link. 
+
+
+--- SUMMARIZED, REALLY ---
+1) Create repository on GitHub, and copy the repository URL.
+2) Open Git Bash, and enter $ git clone [URL].
+3) Open folder on VS Code.
+4) Do something like create a file or work on project.
+5) Check Source Control (Alt+9).
+6) Commit and add a message.
+7) Press '...' and Push. 
