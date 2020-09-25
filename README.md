@@ -12,7 +12,7 @@ $ git clone https://github.com/USERNAME/REPOSITORY.git
 Check difference between your repository and the repository on github cloud:
 $ git status
 
-Add new changes to the cloud: (suggested to use git status after this to check status. E.g. "Changes to be committed..."
+Add new changes to the cloud: (suggested to use git status after this to check status. E.g. "Changes to be committed...") (use git add -A to add all in the repository)
 $ git add file.type
 
 Commit changes locally on your machine: (-m means add a message)
@@ -23,3 +23,4 @@ $ git push
 
 Receive updated files from github cloud: (might need to do this first if git push gives error)
 $ git pull
+
