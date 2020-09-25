@@ -8,7 +8,7 @@ If you get stuck in a commit (happens if you forgot -m), then do this: press ESC
 
 --- GO TO THE FOLDER YOU WANT THE REPOSITORY TO BE IN ---<br />
 In my case, it would be under Documents\Git.
-Using git bash, navigate to folder using<br /> $ cd Documents/_github
+Using git bash, navigate to folder using<br /> $ cd Documents/_github <br />
 This will clone the repository on github cloud locally to your PC at that location. 
 
 Simply enter 'git' for help.
