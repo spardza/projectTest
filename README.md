@@ -15,8 +15,11 @@ $ git status
 Add new changes to the cloud: (suggested to use git status after this to check status. E.g. "Changes to be committed..."
 $ git add file.type
 
-Commit changes locally on your machine: -m means add a message
+Commit changes locally on your machine: (-m means add a message)
 $ git commit -m "added file.type"
 
 Push to github cloud to sync:
 $ git push
+
+Receive updated files from github cloud: (might need to do this first if git push gives error)
+$ git pull
