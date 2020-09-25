@@ -39,6 +39,19 @@ $ git pull
 
 3.1) Might need to '...' to add Remote and then paste repository link. 
 
+--- CLONE REPOSITORY FROM GITHUB ---
+1) With a fresh VS Code, select Source Control.
+2) Select Clone Repository and add URL. 
+
+--- UPLOAD LOCAL FOLDER TO GITHUB ---
+1) Open desired folder on PC with VS Code.
+2) Select Source Control.
+3) Publish to GitHub. (ALternatively CTRL+SHIFT+P and search for Publish to GitHub)
+
+--- REMOVE FROM GIT THROUGH VS CODE ---
+1) Close folder on VS Code.
+2) Open folder location through Explorer on PC.
+3) View hidden items, and delete .git folder.
 
 --- SUMMARIZED, REALLY ---
 1) Create repository on GitHub, and copy the repository URL.
